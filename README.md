@@ -1,6 +1,6 @@
 # AutonomousRCCar-AndroidAppModule
 
-Android app repository for an Autonomous RC Car project
+Android app interface for an Autonomous RC Car project
 ********************************************************
 * Can connect and communicate via an Android device bluetooth.Works well with HC-05 bluetooth module for the RC Car.
 * App uses Google Maps API to select routes for the car. The app can take in GPS source reading from the car and allow user to select a destination on the map via simple tap.
